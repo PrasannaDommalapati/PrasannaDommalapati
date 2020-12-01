@@ -1,6 +1,6 @@
-  I am a .net developer, develops software with Test Driven Development methodology. I believe pair/mob programming will give best results to the developers and testers to work together to create a successful product in a self-organised agile team.
+  I am a .net developer, develops software with Test Driven Development (TDD) methodology. I learned to pair/mob programming which makes developers and testers to work together to create a successful product and will give best results in a self-organised agile team.
 
-  I started my career as an automation tester, The passion to become a developer driven me to grab the opportunies and made me work hard. Now I can proudly can tell I am a 'Developer'.
+  I started my career as an Automation Test Engineer, The passion to become a developer driven me to work harder and I accepted the challenges thrown at me. Now I can confidently can tell that I chnaged my career as a 'Developer' majorly Microsoft Stack and ReactJs.
 
 ### Tech Stack: ###
 * C#
