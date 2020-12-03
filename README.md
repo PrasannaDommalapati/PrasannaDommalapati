@@ -4,10 +4,12 @@
 
 ### Tech Stack: ###
 * C#
+* ASP.NET
+* .NET Core
 * Javascript
 * Html and Css
 * Firebase
-* Entity Framework
+* Entity Framework, EF Core
 * ReactJs
 * Azure cloud Platform
 * Selenium
