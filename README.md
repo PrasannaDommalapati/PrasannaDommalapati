@@ -2,7 +2,7 @@
 
   I started my career as an Automation Test Engineer, The passion to become a developer driven me to work harder and I accepted the challenges thrown at me. Now I can confidently can tell that I chnaged my career as a 'Developer' majorly Microsoft Stack and ReactJs.
 
-### Tech Stack: ###
+#### Tech Stack: ####
 * C#
 * ASP.NET
 * .NET Core
@@ -15,3 +15,10 @@
 * Selenium
 * Protractor
 * Cypress
+
+#### Types of Applications: ####
+* Rest API
+* Web Apps
+* Function Apps
+* Logic apps
+* WCF
