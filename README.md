@@ -27,4 +27,4 @@
 
 ![Prasanna's github stats](https://github-readme-stats.vercel.app/api?username=PrasannaDommalapati)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= PrasannaDommalapati)](https://github.com/PrasannaDommalapati/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaDommalapati)](https://github.com/PrasannaDommalapati/github-readme-stats)
