@@ -24,3 +24,5 @@
 * Function Apps
 * Logic apps
 * WCF
+
+![Prasanna's github stats](https://github-readme-stats.vercel.app/api?username=PrasannaDommalapati)
