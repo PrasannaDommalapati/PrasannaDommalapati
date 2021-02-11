@@ -1,6 +1,7 @@
-  I am a .net developer, develops software with Test Driven Development (TDD) methodology. I learned to pair/mob programming which makes developers and testers to work together to create a successful product and will give best results in a self-organised agile team.
 
 A pragmatic, full stack .NET developer primarily in financial systems. With over 9 years of industry experience.
+
+I am a .net developer, develops software with Test Driven Development (TDD) methodology. I learned to pair/mob programming which makes developers and testers to work together to create a successful product and will give best results in a self-organised agile team.
 
 Excellent communication and interpersonal skills. Flexible in new environments, self-motivated, hardworking, a good team player and have worked in a multicultural environment.
 
