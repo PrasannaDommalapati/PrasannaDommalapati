@@ -5,7 +5,8 @@ A pragmatic, full stack .NET developer primarily in financial systems. With over
 Excellent communication and interpersonal skills. Flexible in new environments, self-motivated, hardworking, a good team player and have worked in a multicultural environment.
 
 Specialities:
-.Net Stack - ASP.NET MVC, .NET Core, Function Apps, Logic Apps , Web API, WCF, Blazor, Razor, C#, Entity Framework, Linq
+- .Net Stack - ASP.NET MVC, .NET Core, Function Apps, Logic Apps , Web API, WCF, Blazor, Razor, C#, Entity Framework, Linq
+
 Azure: Functions, Storage, Data Factory, AppService, API Management, ARM, Key Vault, Azure cloud Platform
 Testing: Mocks, Stubs, Generation of test data, Unit Test, Integration Test, End to end Tests, regression and performance test
 Testing Tools: MSTest, XUnit, NUnit, JUnit, TestNg, Selenium, Cucumber, Specflow, protractor, cypress, jest, chai, mocha, jasmine, browserstack
