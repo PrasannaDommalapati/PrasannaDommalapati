@@ -5,7 +5,7 @@ I am a .net developer, develops software with Test Driven Development (TDD) meth
 
 Excellent communication and interpersonal skills. Flexible in new environments, self-motivated, hardworking, a good team player and have worked in a multicultural environment.
 
-Specialities:
+####Specialities:####
 - .Net Stack - ASP.NET MVC, .NET Core, Function Apps, Logic Apps , Web API, WCF, Blazor, Razor, C#, Entity Framework, Linq
 - Azure: Functions, Storage, Data Factory, AppService, API Management, ARM, Key Vault, Azure cloud Platform
 - Testing: Mocks, Stubs, Generation of test data, Unit Test, Integration Test, End to end Tests, regression and performance test
