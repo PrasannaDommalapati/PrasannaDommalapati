@@ -7,7 +7,7 @@ Hands-on experience in different Microsoft Technologies such as .NET Framework, 
 
 I develop software with Test Driven Development (TDD) methodology. I learned to pair/mob programming which makes developers and testers to work together to create a successful product and will give best results in a self-organised agile team.
 
-I am a strong advocate of SOLID Principles, Clean Code, TDD/BDD.
+I am a strong advocate of SOLID Principles, Clean Code and TDD/BDD.
 
 Highly motivated team player with zeal to learn new technologies and always believes in giving the best efforts in challenging environments. Very good learner, highly motivated, organized and self-starter committed to the highest levels of professional and personal excellence. Excellent object-oriented knowledge of concepts and different .Net Design Patterns. Excellent analytical and programming skills and willingness to learn and adapt to new challenges. Quick analyser of issues for quick resolution provided in all the projects.
 
