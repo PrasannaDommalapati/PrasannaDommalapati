@@ -25,4 +25,6 @@ Highly motivated team player with zeal to learn new technologies and always beli
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PrasannaDommalapati&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaDommalapati&langs_count=7&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaDommalapati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
