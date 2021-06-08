@@ -24,6 +24,5 @@ Highly motivated team player with zeal to learn new technologies and always beli
 - **Misc:** OWASP ZAP
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PrasannaDommalapati&count_private=true&theme=tokyonight&showicons=true)]()
-![Prasanna Dommalapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasannaDommalapati&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaDommalapati)](https://github.com/anuraghazra/github-readme-stats)
 
