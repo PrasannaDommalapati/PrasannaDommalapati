@@ -13,7 +13,9 @@ Highly motivated team player with zeal to learn new technologies and always beli
 
 
 #### Specialities: ####
-- **.Net Stack:**  ASP.NET MVC, .NET Core, Function Apps, Logic Apps , Web API, WCF, Blazor, Razor, C#, Entity Framework, Linq
+- **.Net Stack:**  ASP.NET MVC, .NET Core, Function Apps, Logic Apps , Web API, WCF, Blazor, Razor, C#, Linq
+- **ORM:** Entity Framework, Dapper
+- **RealTime Notifications:** SocketIo, SignalR, WebSocket
 - **Azure:** Functions, Storage, Data Factory, AppService, API Management, ARM, Key Vault, Azure cloud Platform
 - **Testing:** Mocks, Stubs, Generation of test data, Unit Test, Integration Test, End to end Tests, regression and performance test
 - **Testing Tools:** MSTest, XUnit, NUnit, JUnit, TestNg, Selenium, Cucumber, Specflow, protractor, cypress, jest, chai, mocha, jasmine, browserstack
